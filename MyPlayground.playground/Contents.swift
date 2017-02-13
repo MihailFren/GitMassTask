@@ -7,3 +7,10 @@ for k in 0 ... mas1.count - 2{
     }
 }
 mas1 = mas2
+var mas3 = ["a","b"]
+var mas4 = [String]()
+for k in mas3{
+    mas4.append(k)
+    mas4.append(k)
+}
+mas3 = mas4
